@@ -1,0 +1,14 @@
+{
+"app_title" : "Islami",
+"sura_name" : "Sura Name",
+"ayah_number" : "Ayat Number",
+"hadith_name" : "Hadith",
+"counter" : "Counter",
+"radio" : "Quran Radio",
+"language" : "language",
+"theme" : "Theme",
+"item1L": "English",
+"item2L": "Arabic",
+"item1T": "Light",
+"item2T": "Dark"
+}
